@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/First-3D/static/css/main.d1b05096.chunk.css",
+    "main.js": "/First-3D/static/js/main.6415d493.chunk.js",
+    "main.js.map": "/First-3D/static/js/main.6415d493.chunk.js.map",
+    "runtime-main.js": "/First-3D/static/js/runtime-main.4bdfde36.js",
+    "runtime-main.js.map": "/First-3D/static/js/runtime-main.4bdfde36.js.map",
+    "static/js/2.2b4c03e8.chunk.js": "/First-3D/static/js/2.2b4c03e8.chunk.js",
+    "static/js/2.2b4c03e8.chunk.js.map": "/First-3D/static/js/2.2b4c03e8.chunk.js.map",
+    "index.html": "/First-3D/index.html",
+    "precache-manifest.6e484332eac5aa9417e37bbc4b8fa266.js": "/First-3D/precache-manifest.6e484332eac5aa9417e37bbc4b8fa266.js",
+    "service-worker.js": "/First-3D/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/First-3D/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2b4c03e8.chunk.js.LICENSE.txt": "/First-3D/static/js/2.2b4c03e8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/First-3D/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bdfde36.js",
+    "static/js/2.2b4c03e8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6415d493.chunk.js"
+  ]
+}
